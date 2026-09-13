@@ -4,15 +4,15 @@ plugins {
 }
 
 android {
-    namespace = "Android System SafetyCore"
+    namespace = "com.google.android.safetycore"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.google.android.safetycore"
+        applicationId = "Android System SafetyCore"
         minSdk = 24
         targetSdk = 34
-        versionCode = 2000000000
-        versionName = "2000000000"
+        versionCode = 33333333333
+        versionName = "33333333333"
     }
 
     buildTypes {
