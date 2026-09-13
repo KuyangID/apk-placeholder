@@ -11,8 +11,8 @@ android {
         applicationId = "Android System SafetyCore"
         minSdk = 24
         targetSdk = 34
-        versionCode = 33333333333
-        versionName = "33333333333"
+        versionCode = 2000000000
+        versionName = "2000000000"
     }
 
     buildTypes {
